@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center"> I'm Felipe, a passionate Data Engineer from Argentina</h3>
 
-- 🔭 I’m currently working on [Data Base Administration](https://github.com/FelipeDarras/Administracion-Bases-de-Datos)
+- 🔭 I’m currently working on [Database Administration](https://github.com/FelipeDarras/Administracion-Bases-de-Datos)
 
 - 🌱 I’m currently learning **Apache Spark**
 
