@@ -1,15 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Felipe!</h1>
-<h3 align="center">A passionate Data Engineer from Argentina 🇦🇷</h3>
+<h3 align="center">A passionate Data Engineer from Argentina</h3>
 
 - 🔭 I’m currently working on [Data Base Administration](https://github.com/FelipeDarras/Administracion-Bases-de-Datos)
 
 - 🌱 I’m currently learning **Apache Spark**
 
 - 🤝 I’m looking for help with **Kubernetes!**
-
-- 👨‍💻 All of my projects are available at [https://github.com/FelipeDarras](https://github.com/FelipeDarras)
 
 - 📫 How to reach me **darrasfelipe@gmail.com**
 
