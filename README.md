@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Felipe!</h1>
-<h3 align="center">A passionate Data Engineer from Argentina</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center"> I'm Felipe, a passionate Data Engineer from Argentina</h3>
 
 - 🔭 I’m currently working on [Data Base Administration](https://github.com/FelipeDarras/Administracion-Bases-de-Datos)
 
